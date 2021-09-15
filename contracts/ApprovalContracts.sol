@@ -1,6 +1,5 @@
 pragma solidity ^0.4.18;
 
-
 contract ApprovalContract{
     address public sender
     address public receiver
